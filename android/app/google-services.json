@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864993856223",
+    "project_id": "mind-companion-72c1c",
+    "storage_bucket": "mind-companion-72c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864993856223:android:445746c4116cdf2c36376a",
+        "android_client_info": {
+          "package_name": "com.example.mind_companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FZ9DpuuR4EGaGC8DOJhD790OhEKEEEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+const String mainSplash = '/';
+const String letsGoSplash = '/LetsGoSplash';
+const String homeScreen = '/HomeScreen';
+const String signUp = '/SignUp';
+const String login = '/Login';
+const String profile = '/ProfileScreen';
+const String yourTask = '/YourTaskScreen';
+const String addNewTask = '/AddNewTask';
+const String toDaysTask = '/TodayTaskScreen';
+const String trackLocation = '/TrackLocation';
+const String locationAccess = '/LocationAccess';
+const String repeatTask = '/RepeatTask';
+const String editTask = '/EditTask';
+const String editRepeatedTask = '/EditRepeatedTask';
